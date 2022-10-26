@@ -1,8 +1,7 @@
 
 This is the first commit
 
-<<<<<<< HEAD
 This is feauter 1
-=======
 This is feature 2
+This is feature 2..
 
